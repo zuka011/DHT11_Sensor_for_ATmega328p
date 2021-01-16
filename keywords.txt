@@ -1,0 +1,32 @@
+#####################################################
+# Syntax Coloring Map For DHT11_Sensor Library 
+#####################################################
+
+###############
+# Class Names 
+###############
+
+DHTMeasurement	KEYWORD1
+DHT11	KEYWORD1
+
+################
+# Method Names 
+################
+
+convertScale	KEYWORD2
+toString	KEYWORD2
+temperatureToString	KEYWORD2
+humidityToString	KEYWORD2
+
+getTemperature	KEYWORD2
+getHumidity	KEYWORD2
+getMeasurements	KEYWORD2
+
+################
+# Constants 
+################
+
+TempScale	LITERAL1
+Celsius	LITERAL1
+Fahrenheit	LITERAL1
+Kelvin	LITERAL1
